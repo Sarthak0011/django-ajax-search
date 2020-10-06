@@ -1,9 +1,9 @@
-django-ajax-search
+django-ajax-search-An amazing project :
 ===================
 
 A customizable AJAX-powered search for Django.
 
-Features
+Features of django-ajax-search :
 -----------------------------------
 
 - Works with the latest jQuery library version
@@ -42,7 +42,7 @@ Once installed you should add the urls to your root url patterns::
 
 Full documentation at http://django-ajax-search.readthedocs.org/
 	
-Additional Help/Support
+Additional Help/Support :
 -----------------------------------
 
 You can find additional help or support on the mailing list: http://groups.google.com/group/django-ajax-search
